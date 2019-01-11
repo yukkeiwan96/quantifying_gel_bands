@@ -1,3 +1,9 @@
+################################ALERT####################################
+#If you try to run the program for the first time after opening imageJ, #
+#a error console will pop up. Just close the the console window, and the#
+#program will run perfectly fine.                                       #
+#########################################################################
+
 #MIT License
 
 #Copyright (c) 2019 Yuk Kei Wan
